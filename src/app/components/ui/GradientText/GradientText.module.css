@@ -1,0 +1,26 @@
+.gradient-container {
+  position: relative;
+  display: inline-block;
+}
+
+.gradient-text {
+  position: relative;
+  background-size: 300% 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  animation: gradient-shift 8s linear infinite;
+  z-index: 2;
+}
+
+@keyframes gradient-shift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
