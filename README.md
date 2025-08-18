@@ -1,3 +1,8 @@
+![Скриншот проекта](https://github.com/asynchromez/asynchrome-web/raw/main/asynchrome-1.png)
+![Скриншот проекта](https://github.com/asynchromez/asynchrome-web/raw/main/asynchrome-2.png)
+![Скриншот проекта](https://github.com/asynchromez/asynchrome-web/raw/main/asynchrome-3.png)
+![Скриншот проекта](https://github.com/asynchromez/asynchrome-web/raw/main/asynchrome-4.png)
+
 # 🚀 asynchrome-web | Портфолио
 
 **Владелец:** [asynchrome](https://github.com/asynchromez)  
